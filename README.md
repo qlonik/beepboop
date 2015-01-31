@@ -2,8 +2,8 @@
 - [testtest](#testtest)
 - [beepboop](#beepboop)
 - [boopbeep](#boopbeep)
-   - [blah](##blah)
-   - [balh](##balh)
+   - [blah](#blah)
+   - [balh](#balh)
 
 #testtest
 test
